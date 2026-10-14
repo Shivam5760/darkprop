@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>LarynxEngine</h1>
+<h1>Larynx-Engine</h1>
 
 <p>The open-source ElevenLabs alternative.</p>
 
