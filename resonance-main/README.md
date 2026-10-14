@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://33uee5uclf.ufs.sh/f/fa600f97-6cf2-4759-8641-3093d13591bf-6rrk6b.png" alt="Resonance" width="720" />
 
-<br />
-<br />
-
-<h1>Resonance</h1>
+<h1>LarynxEngine</h1>
 
 <p>The open-source ElevenLabs alternative.</p>
 
@@ -29,31 +25,6 @@
 </div>
 
 <br />
-
-## Tutorial
-
-[![Watch on YouTube](https://img.shields.io/badge/Watch_the_Full_Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://cwa.run/resonance-gh-yt)
-
-Learn how to build this entire project from scratch in a **free 12-hour video course** on YouTube. The tutorial covers every feature  - authentication, text-to-speech, voice cloning, billing, deployment, and more.
-
-Each chapter has a matching branch so you can check out the code at any point in the tutorial:
-
-| Branch | Chapter |
-|--------|---------|
-| `main` | Final project (all chapters combined) |
-| `02-dashboard` | Dashboard layout and navigation |
-| `03-text-to-speech-ui` | Text-to-speech UI |
-| `04-backend-infrastructure` | Backend infrastructure (tRPC, R2, Prisma) |
-| `05-voice-selection` | Voice selection and library |
-| `06-tts-generation-audio-player` | TTS generation and audio player |
-| `07-tts-history-polish` | TTS history and polish |
-| `bonus-sentry-error-monitoring` | Bonus: Sentry error monitoring |
-| `08-voice-management` | Voice management and cloning |
-| `09-billing` | Billing and usage metering |
-
-```bash
-git checkout 04-backend-infrastructure  # example: jump to Chapter 4
-```
 
 ## Features
 
